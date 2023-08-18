@@ -1,27 +1,7 @@
-# MATERNIDADE E SUPERAÇÃO
-
-A maternidade é única para cada individuo, desde a descoberta até o último suspiro de cada mãe.
-
-# Índice
-
-* Primeiros sintomas
-* Medos
-* Rede de Apoio
-* Preparando do Corpo
-* Preparando a Mente
-* Via de Parto
-* Chegou a HOra!
-* Puerpério
-  
-# Primeiros Sintomas
-O que é muito comum, vermos pessoas fixando na mente que os primeiros sintomas vem do atraso do ciclo. Calma aí, nem sempre é assim, e se eu te contar que as vezes o ciclo continua continuo? Uma gestação silenciosa por exemplo, imagina o susto chegar na emergência do hospital com dores achando que está com pedra nos rins e UAL, seu bebê está nascendo, pois é acontece.
-Podemos pensar que estamos com gases, muito sono, sensíveis. Fique atento.
-
-# Medos
+# 
 
 
-# Micro Certificações
-Futuramente
+# 
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
